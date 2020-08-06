@@ -1,0 +1,13 @@
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\bin\Release\netstandard2.0\WeatherApp.deps.json
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\bin\Release\netstandard2.0\WeatherApp.dll
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\bin\Release\netstandard2.0\ref\WeatherApp.dll
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\bin\Release\netstandard2.0\WeatherApp.pdb
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.AssemblyInfo.cs
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\XamlC.stamp
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.dll
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\ref\WeatherApp.dll
+D:\Repos\WeatherApp\WeatherApp\WeatherApp\obj\Release\netstandard2.0\WeatherApp.pdb
